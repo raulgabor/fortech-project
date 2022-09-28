@@ -2,8 +2,8 @@
 
 ## Multiple pages
 
-Login, Register, Contact, Books, Book by ID etc.
+Home, Login, Register, Logout, Contact, Books, Book by ID.
 
-### Adding new book, see book details, deleting book, keep track of the pages read
+### Features: Adding a new book, see book details, delete a book, keep track of the pages read, write a review for future references, progress bar.
 
-### PagesCounterSlice was abandoned but left in the project for education purposes
+### PagesCounterSlice was abandoned but left in the project for education purposes.
